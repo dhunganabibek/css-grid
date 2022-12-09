@@ -1,1 +1,1 @@
-# CSS Grid Course taught by code with Harry.
+# CSS Grid Course taught by Academind
